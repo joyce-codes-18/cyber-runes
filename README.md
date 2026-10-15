@@ -3,7 +3,7 @@
 
 ---
 ## Uncover the secrets to get the flag 🤫
-This repository documents my step-by-step methodology, exploit scripts, and key learnings across various core domains of offensive and defensive security. Uncovering the secrets to find the flag.
+This repository documents my step-by-step methodology, exploit scripts, and key learnings across various core domains of offensive and defensive security.
 
 ### Primary Objectives
 * **Document Methodology:** Maintain detailed technical records for personal review and continuous skill refinement.
