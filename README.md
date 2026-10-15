@@ -2,7 +2,7 @@
 > Status: Active
 
 ---
-## Overview
+## CTF Write-up?
 This repository documents my step-by-step methodology, exploit scripts, and key learnings across various core domains of offensive and defensive security. Uncovering the secrets to find the flag.
 
 ### Primary Objectives
